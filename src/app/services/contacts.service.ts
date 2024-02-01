@@ -7,9 +7,9 @@ import { Contact } from '../interfaces/contact';
 export class ContactsService {
 
   contacts: Contact[] = [
-    {Id: 1, FirstName: 'John', LastName: 'Johnson', PhoneNumber: '111-111-1111', Email: 'testing1@test.com'},
-    {Id: 2, FirstName: 'Jack', LastName: 'Jackson', PhoneNumber: '222-222-2222', Email: 'testing2@test.com'},
-    {Id: 3, FirstName: 'Mary', LastName: 'Erickson', PhoneNumber: '333-333-3333', Email: 'testing3@test.com'}
+    {Id: 1, FirstName: 'Tan Jin', LastName: 'Quan', PhoneNumber: '012-115-8390', Email: 'tanquan@gmail.com'},
+    {Id: 2, FirstName: 'Ahkam', LastName: 'Said', PhoneNumber: '013-369-6044', Email: 'ahkamsaid@yahoo.com'},
+    {Id: 3, FirstName: 'Bhavin', LastName: 'Hridaan', PhoneNumber: '010-668-1394', Email: 'bhavin@outlook.com'}
   ]
 
   constructor() { }
